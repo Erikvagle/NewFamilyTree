@@ -1,0 +1,6 @@
+C:/Users/Erik Vagle/CLionProjects/NewFamilyTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Erik Vagle/CLionProjects/NewFamilyTree/cmake-build-debug/CMakeFiles/NewFamilyTree.dir
+C:/Users/Erik Vagle/CLionProjects/NewFamilyTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Erik Vagle/CLionProjects/NewFamilyTree/cmake-build-debug/NewFamilyTree_lib/CMakeFiles/Person.h.dir
+C:/Users/Erik Vagle/CLionProjects/NewFamilyTree/cmake-build-debug/NewFamilyTree_lib/CMakeFiles/edit_cache.dir
+C:/Users/Erik Vagle/CLionProjects/NewFamilyTree/cmake-build-debug/NewFamilyTree_lib/CMakeFiles/rebuild_cache.dir

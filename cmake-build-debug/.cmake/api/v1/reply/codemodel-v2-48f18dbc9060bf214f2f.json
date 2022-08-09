@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "NewFamilyTree_lib",
+					"jsonFile" : "directory-NewFamilyTree_lib-Debug-e1ad1572b53a01045846.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "NewFamilyTree_lib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "NewFamilyTree",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NewFamilyTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NewFamilyTree-Debug-cef1b7970ff95cc16e2f.json",
+					"name" : "NewFamilyTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Person.h::@a8161d3cd31579018f2d",
+					"jsonFile" : "target-Person.h-Debug-917b739d98ec21cfb769.json",
+					"name" : "Person.h",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Erik Vagle/CLionProjects/NewFamilyTree/cmake-build-debug",
+		"source" : "C:/Users/Erik Vagle/CLionProjects/NewFamilyTree"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

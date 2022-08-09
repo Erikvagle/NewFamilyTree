@@ -1,0 +1,13 @@
+# ninja log v5
+2	1526	6817866341596791	CMakeFiles/NewFamilyTree.dir/NewFamilyTree_lib/Person.cpp.obj	69d69cfa5681c4f3
+6	689	6817883873999270	build.ninja	6710aa4e6e866990
+6	813	6817868765583811	CMakeFiles/NewFamilyTree.dir/main.cpp.obj	b2effea6541bc206
+8	25076	6817881656862580	CMakeFiles/NewFamilyTree.dir/NewFamilyTree_lib/Catch_tests/Person_test.cpp.obj	acbdc8c6c295e5ea
+814	1075	6817868768136968	NewFamilyTree.exe	30f093274f4a1eec
+9	4497	6817883873999270	build.ninja	6710aa4e6e866990
+6	345	6817883897481906	NewFamilyTree.exe	30f093274f4a1eec
+7	5357	6817888387509114	CMakeFiles/NewFamilyTree.dir/main.cpp.obj	b2effea6541bc206
+17	5429	6817888388247229	CMakeFiles/NewFamilyTree.dir/NewFamilyTree_lib/Person.cpp.obj	69d69cfa5681c4f3
+5429	5822	6817888392067949	NewFamilyTree.exe	30f093274f4a1eec
+11	1419	6817889646841955	CMakeFiles/NewFamilyTree.dir/main.cpp.obj	b2effea6541bc206
+1420	1686	6817889649425035	NewFamilyTree.exe	30f093274f4a1eec
